@@ -1,0 +1,12 @@
+/home/alice/list-starred-repos/target/debug/deps/libasync_trait-0b987163acc38a70.so: /home/alice/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.78/src/lib.rs /home/alice/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.78/src/args.rs /home/alice/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.78/src/bound.rs /home/alice/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.78/src/expand.rs /home/alice/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.78/src/lifetime.rs /home/alice/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.78/src/parse.rs /home/alice/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.78/src/receiver.rs /home/alice/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.78/src/verbatim.rs
+
+/home/alice/list-starred-repos/target/debug/deps/async_trait-0b987163acc38a70.d: /home/alice/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.78/src/lib.rs /home/alice/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.78/src/args.rs /home/alice/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.78/src/bound.rs /home/alice/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.78/src/expand.rs /home/alice/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.78/src/lifetime.rs /home/alice/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.78/src/parse.rs /home/alice/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.78/src/receiver.rs /home/alice/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.78/src/verbatim.rs
+
+/home/alice/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.78/src/lib.rs:
+/home/alice/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.78/src/args.rs:
+/home/alice/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.78/src/bound.rs:
+/home/alice/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.78/src/expand.rs:
+/home/alice/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.78/src/lifetime.rs:
+/home/alice/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.78/src/parse.rs:
+/home/alice/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.78/src/receiver.rs:
+/home/alice/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.78/src/verbatim.rs:
